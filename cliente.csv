@@ -1,0 +1,6 @@
+id_cliente,nombre,apellido,telefono,correo,edad,id_direccion
+1,Aldo ,Chong,5548181208,aldochong02@gmail.com,28,1
+2,Lizbeth,Luna,2136547896,correoliz@demostracion.com,36,2
+3,Charles,Sol,5487963215,correocharles@demostracion.com,45,3
+4,Juan ,Camion,5789641265,correojuan@demostracion.com,18,4
+5,Omar,Mesa,4512369878,correoomar@demostracion.com,22,5
